@@ -41,13 +41,13 @@ Our results in the paper can be reproduced using a random seed ranging from 0 to
 
 ## Citation
 ```
-@inproceedings{
-xia2023molebert,
-title={Mole-{BERT}: Rethinking Pre-training Graph Neural Networks for Molecules},
-author={Jun Xia and Chengshuai Zhao and Bozhen Hu and Zhangyang Gao and Cheng Tan and Yue Liu and Siyuan Li and Stan Z. Li},
-booktitle={The Eleventh International Conference on Learning Representations },
-year={2023},
-url={https://openreview.net/forum?id=jevY-DtiZTR}
+@inproceedings{xia2024discognn,
+  title={DiscoGNN: A Sample-Efficient Framework for Self-Supervised Graph Representation Learning},
+  author={Xia, Jun and Chen, Shaorong and Liu, Yue and Gao, Zhangyang and Zheng, Jiangbin and Yang, Xihong and Li, Stan Z},
+  booktitle={2024 IEEE 40th International Conference on Data Engineering (ICDE)},
+  pages={2876--2888},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
