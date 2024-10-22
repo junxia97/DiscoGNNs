@@ -39,3 +39,15 @@ Our results in the paper can be reproduced using a random seed ranging from 0 to
 ## Acknowledgment
 [1] Strategies for Pre-training Graph Neural Networks (Hu et al., ICLR 2020)
 
+## Citation
+```
+@inproceedings{
+xia2023molebert,
+title={Mole-{BERT}: Rethinking Pre-training Graph Neural Networks for Molecules},
+author={Jun Xia and Chengshuai Zhao and Bozhen Hu and Zhangyang Gao and Cheng Tan and Yue Liu and Siyuan Li and Stan Z. Li},
+booktitle={The Eleventh International Conference on Learning Representations },
+year={2023},
+url={https://openreview.net/forum?id=jevY-DtiZTR}
+}
+```
+
